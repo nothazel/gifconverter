@@ -20,7 +20,7 @@ A simple Windows tool that adds "Convert to GIF" to your right-click menu for vi
 2. Right-click `Install.cmd` and select "Run as administrator"
 3. Wait for the installation to complete
    - The installer will automatically download and install required dependencies (FFmpeg and Gifsicle)
-   - If needed, it will also install the Scoop package manager
+   - If needed, it will also install Chocolatey
 
 ## Usage
 
